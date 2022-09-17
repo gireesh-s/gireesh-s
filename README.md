@@ -11,7 +11,7 @@
 <p align="left">
 	<a href="mailto:gireesh4615@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 	</a>
-	<a href="https://wa.me/"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>	
+	<a href="https://wa.me/+917902482445"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>	
 </p>
 
 <h3 align="left">Connect with me:</h3>

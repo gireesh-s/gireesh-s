@@ -1,4 +1,4 @@
-<img align="center" alt="CodingGIF" src="https://indoanalytica.com/static/images/bannerr.gif"/>
+<!-- <img align="center" alt="CodingGIF" src="https://indoanalytica.com/static/images/bannerr.gif"/> -->
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm GIREESH S</h1>
 <h3 align="center">FULL STACK DEVELOPER</h3>
 
